@@ -22,7 +22,7 @@ Activate this skill when:
 
 ## Documentation
 
-Use `search-docs` for detailed Laravel Data patterns and documentation.
+Use the markdown files in the `laravel-data/docs` directory for Laravel Data patterns and documentation.
 
 ## Basic Usage
 
